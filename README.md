@@ -2,5 +2,5 @@
 
 ## Install
 
-`yarn add polyquail-kegg-uikit`
+`yarn add polyquail-chk-uikit`
 
